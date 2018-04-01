@@ -1,0 +1,29 @@
+<resources>
+    <dimen name="textSize">22sp</dimen>
+    <dimen name="textSizeQuestion">28sp</dimen>
+    <dimen name="textSize2">46sp</dimen>
+    <dimen name="textSizeQuiz">34sp</dimen>
+    <dimen name="textSize2Land">56sp</dimen>
+    <dimen name="textSize_category">34sp</dimen>
+    <dimen name="dimension10">10dp</dimen>
+    <dimen name="dimension15">15dp</dimen>
+    <dimen name="dimension20">20dp</dimen>
+    <dimen name="dimension25">25dp</dimen>
+    <dimen name="dimension30">30dp</dimen>
+    <dimen name="dimension40">40dp</dimen>
+    <dimen name="dimension50">50dp</dimen>
+    <dimen name="dimension60">60dp</dimen>
+    <dimen name="dimension70">70dp</dimen>
+    <dimen name="dimension75">75dp</dimen>
+    <dimen name="dimension80">80dp</dimen>
+    <dimen name="dimension90">90dp</dimen>
+    <dimen name="dimension100">100dp</dimen>
+    <dimen name="dimension110">110dp</dimen>
+    <dimen name="dimension130">130dp</dimen>
+    <dimen name="dimension150">150dp</dimen>
+    <dimen name="dimension200">200dp</dimen>
+    <dimen name="dimension250">250dp</dimen>
+    <dimen name="dimension270">270dp</dimen>
+    <dimen name="dimension300">300dp</dimen>
+    <dimen name="dimension350">350dp</dimen>
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ioana.quiz.Geography">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/backgroundImage"
+        android:scaleType="center"
+        android:src="@mipmap/background1" />
+
+    <TextView
+        android:id="@+id/category"
+        style="@style/categoryView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/category1" />
+
+    <TextView
+        android:id="@+id/question"
+        style="@style/questionView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/question2G" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        style="@style/radioGroup"
+        android:layout_width="@dimen/dimension300"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioButton"
+            style="@style/radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/answerG21" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            style="@style/radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/answerG22" />
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            style="@style/radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/answerG23" />
+
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            style="@style/radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/answerG24" />
+
+
+        <RadioButton
+            android:id="@+id/radioButton5"
+            style="@style/radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/answerG25" />
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/next"
+        style="@style/buttonTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/score"
+        style="@style/textViewScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/scorePoints"
+        style="@style/textViewScorePoints"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

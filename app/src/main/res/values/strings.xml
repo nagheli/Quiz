@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="next">NEXT</string>
+    <string name="restart">RESTART</string>
+    <string name="share">SHARE</string>
+    <string name="quit">QUIT</string>
+    <string name="score">Score:</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="scoree">Your result is:</string>
+    <string name="scoreText">" "0</string>
+    <string name="scoreTextt">/5</string>
+    <string name="backgroundImage"> </string>
+    <string name="quiz">Quiz</string>
+    <string name="geography">Geography</string>
+    <string name="history">History</string>
+    <string name="nature">Nature</string>
+    <string name="science">Science</string>
+    <string name="category1">Geography Quiz</string>
+    <string name="category2">Nature Quiz</string>
+    <string name="category3">History Quiz</string>
+    <string name="category4">Science Quiz</string>
+
+    <string name="categoryAnswers1">Geography Quiz Answers</string>
+    <string name="categoryAnswers2">Nature Quiz Answers</string>
+    <string name="categoryAnswers3">History Quiz Answers</string>
+    <string name="categoryAnswers4">Science Quiz Answers</string>
+
+    <string name="question1G">1.Which planet having all the circumstances for the existence of life?</string>
+    <string name="answerG11">Mercury</string>
+    <string name="answerG12">Venus</string>
+    <string name="answerG13">Earth</string>
+    <string name="answerG14">Mars</string>
+    <string name="answerG15">Jupiter</string>
+
+    <string name="question2G">2.In which country were the Hanging Gardens of Babylon said to have been located?</string>
+    <string name="answerG21">Iraq</string>
+    <string name="answerG22">Jordan</string>
+    <string name="answerG23">Iran</string>
+    <string name="answerG24">Saudi Arabia</string>
+    <string name="answerG25">Syria</string>
+
+    <string name="question3G">3.In which US state is the Grand Canyon located?</string>
+    <string name="answerG31">New Mexico</string>
+    <string name="answerG32">Nevada</string>
+    <string name="answerG33">Colorado</string>
+    <string name="answerG34">Arizona</string>
+    <string name="answerG35">California</string>
+
+    <string name="question4G">4.What is the name given to the active volcano located in Sicily?</string>
+    <string name="answerG41">Hekla</string>
+    <string name="answerG42">Etna</string>
+    <string name="answerG43">Campi Flegrei</string>
+    <string name="answerG44">Stromboli</string>
+    <string name="answerG45">Katla</string>
+
+    <string name="question5G">5.What is the largest island in the world?</string>
+    <string name="answerG51">New Guinea</string>
+    <string name="answerG52">Borneo</string>
+    <string name="answerG53">Madagascar</string>
+    <string name="answerG54">Baffin Island</string>
+    <string name="answerG55">Greenland</string>
+
+    <string name="question1H">1.World War II, also known as the Second World War, was a global war that was started and finished in which years?</string>
+    <string name="answerH11">1939</string>
+    <string name="answerH12">1954</string>
+    <string name="answerH13">1945</string>
+    <string name="answerH14">1929</string>
+    <string name="answerH15">1943</string>
+
+    <string name="question2H">2.When did the Battle of Stalingrad take place?</string>
+    <string name="answerH21">21 April 1939</string>
+    <string name="answerH22">2 February 1943</string>
+    <string name="answerH23">23 August 1942</string>
+    <string name="answerH24">16 March 1944</string>
+    <string name="answerH25">10 June 1942</string>
+
+    <string name="answerH31">30 October 1918</string>
+    <string name="answerH32">28 July 1914</string>
+    <string name="answerH33">22 December 1916</string>
+    <string name="answerH34">13 July 1912</string>
+    <string name="answerH35">11 November 1918</string>
+
+    <string name="question4H">4.Between which years the Operation Barbarossa was?</string>
+    <string name="answerH41">5 December 1941</string>
+    <string name="answerH42">1 February 1941</string>
+    <string name="answerH43">7 November 1941</string>
+    <string name="answerH44">22 June 1941</string>
+    <string name="answerH45">25 August 1941</string>
+
+    <string name="question5H">5.What is the Cold War period?</string>
+    <string name="answerH51">1947</string>
+    <string name="answerH52">1946</string>
+    <string name="answerH53">1992</string>
+    <string name="answerH54">1948</string>
+    <string name="answerH55">1991</string>
+
+
+    <string name="question1N">1.Lemurs are native to only one country on earth. Name it.</string>
+    <string name="answerN11">Madagascar</string>
+    <string name="typeAnswer">Type your answer.</string>
+
+
+    <string name="question2N">2.What food comprises 99 percent of a giant panda’s diet?</string>
+    <string name="answerN21">Bamboo</string>
+
+    <string name="question3N">3.Australia’s Great Barrier Reef is the world’s longest. The second longest barrier reef lies off the coast of which country?</string>
+    <string name="answerN31">Belize</string>
+
+
+    <string name="question4N">4.What is the world’s largest fish?</string>
+    <string name="answerN41">Whale shark</string>
+
+    <string name="question5N">5.Name the world’s largest land carnivore, which is actually classified as a marine mammal.</string>
+    <string name="answerN51">Polar bear</string>
+
+
+    <string name="question1S">1.What is the sum of all angles in a triangle?</string>
+    <string name="answerS11">180</string>
+    <string name="answerS12">360</string>
+    <string name="answerS13">120</string>
+    <string name="answerS14">90</string>
+    <string name="answerS15">45</string>
+
+    <string name="question2S">2.How long does it take for the earth to rotate once around its own axis?</string>
+    <string name="answerS21" translatable="false">48 hours with respect of the Sun</string>
+    <string name="answerS22">12 hours, 46 minutes, and 6 seconds with respect to the stars</string>
+    <string name="answerS23">24 hours with respect of the Sun</string>
+    <string name="answerS24">23 hours, 56 minutes, and 4 seconds with respect to the stars</string>
+
+    <string name="question3S">3.What three-letter word means the combination of gases surrounding the Earth? </string>
+    <string name="answerS31">Air</string>
+
+    <string name="question4S">4.The gaseous form of water is called as?</string>
+    <string name="answerS41">Fog</string>
+    <string name="answerS42">Water gas</string>
+    <string name="answerS43">Snow</string>
+    <string name="answerS44">Water vapour</string>
+
+    <string name="question5S">5.Conversion of gas to liquid is called?</string>
+    <string name="answerS51">Condensation</string>
+    <string name="question3H">3.World War I was a global war originating in Europe that lasted from ____ to ____?</string>
+
+
+</resources>

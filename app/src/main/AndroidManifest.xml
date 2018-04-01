@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ioana.quiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Geography"
+            android:label="Geography" />
+        <activity
+            android:name=".Science"
+            android:label="Science" />
+        <activity android:name=".GeoQ1" />
+        <activity android:name=".GeoQ2" />
+        <activity android:name=".GeoQ3" />
+        <activity android:name=".GeoQ4" />
+        <activity android:name=".GeoSubmit" />
+        <activity android:name=".SciQ1" />
+        <activity android:name=".SciQ2" />
+        <activity android:name=".SciQ3" />
+        <activity android:name=".SciQ4" />
+        <activity android:name=".SciSubmit"></activity>
+
+    </application>
+
+</manifest>
