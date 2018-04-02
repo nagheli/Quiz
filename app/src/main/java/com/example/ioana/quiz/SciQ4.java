@@ -39,7 +39,7 @@ public class SciQ4 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // create a new intent to open the SciSubmit activity
-                if(answer.getText().toString().equalsIgnoreCase("Condensation")) {
+                if(answer.getText().toString().trim().equalsIgnoreCase("Condensation")) {
                     answerPoints++;}
                 else{answerPoints = answerPoints + 0;
                 }

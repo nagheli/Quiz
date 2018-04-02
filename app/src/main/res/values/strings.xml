@@ -122,7 +122,7 @@
     <string name="answerS15">45</string>
 
     <string name="question2S">2.How long does it take for the earth to rotate once around its own axis?</string>
-    <string name="answerS21" translatable="false">48 hours with respect of the Sun</string>
+    <string name="answerS21">48 hours with respect of the Sun</string>
     <string name="answerS22">12 hours, 46 minutes, and 6 seconds with respect to the stars</string>
     <string name="answerS23">24 hours with respect of the Sun</string>
     <string name="answerS24">23 hours, 56 minutes, and 4 seconds with respect to the stars</string>

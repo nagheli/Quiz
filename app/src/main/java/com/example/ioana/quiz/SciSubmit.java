@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class SciSubmit extends AppCompatActivity {
 
@@ -69,6 +70,9 @@ public class SciSubmit extends AppCompatActivity {
             }
         });
 
+
+
+        Toast.makeText(this,"Your result is:"+ answerPoints, Toast.LENGTH_LONG).show();
     }
 
 

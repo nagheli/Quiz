@@ -12,7 +12,7 @@ public class SciQ1 extends AppCompatActivity {
 
 
     TextView scorePoints;
-    int answerPoints = 0;
+    int answerPoints;
     int score;
     CheckBox optionOneQ1;
     CheckBox optionTwoQ1;

@@ -12,7 +12,7 @@ import android.widget.TextView;
 public class Science extends AppCompatActivity {
 
     TextView scorePoints;
-    int answerPoints = 0;
+    int answerPoints;
     RadioGroup radioGroup;
     RadioButton optionOneQ1;
     RadioButton optionTwoQ1;

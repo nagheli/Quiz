@@ -13,7 +13,7 @@ public class Geography extends AppCompatActivity {
 
 
     TextView scorePoints;
-    int answerPoints = 0;
+    int answerPoints;
     RadioGroup radioGroup;
     RadioButton optionOneQ1;
     RadioButton optionTwoQ1;

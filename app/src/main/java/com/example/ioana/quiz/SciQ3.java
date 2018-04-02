@@ -14,7 +14,7 @@ public class SciQ3 extends AppCompatActivity {
 
 
     TextView scorePoints;
-    int answerPoints = 0;
+    int answerPoints;
     int score;
     RadioGroup radioGroup;
     RadioButton optionOneQ1;

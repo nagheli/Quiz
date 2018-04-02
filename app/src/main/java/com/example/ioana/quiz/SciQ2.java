@@ -38,7 +38,7 @@ public class SciQ2 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // create a new intent to open the SciQ3 activity
-                if(answer.getText().toString().equalsIgnoreCase("Air")) {
+                if(answer.getText().toString().trim().equalsIgnoreCase("Air")) {
                     answerPoints++;}
                 else{answerPoints = answerPoints + 0;
                 }
